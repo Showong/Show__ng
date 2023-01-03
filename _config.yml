@@ -67,7 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: Showong # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
@@ -81,7 +81,7 @@ medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
+blogger_url: https://Showong.github.io
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
